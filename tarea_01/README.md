@@ -26,9 +26,7 @@ Cuando comencé a mirar la webstory, me percaté de que esta contenía diversos 
 ![alt text](imagenes/Elemento%202.png)
 
 3. Cada vez más cerca de la conclusión, uno encuentra más elementos interactivos que acompañan la información, como “qué elementos caben en un bolsillo” y una sección donde se puede buscar por categorías (como el tipo de pantalón, el precio y la marca) el tamaño de los bolsillos en comparación a una mano.
- 
-![alt text](imagenes/Elemento%203.png) 
-![alt text](imagenes/elemento%204.png)
+![alt text](imagenes/Elemento%203.png)
 
 ### **Sobre su estructura narrativa**
 
