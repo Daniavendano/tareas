@@ -3,7 +3,7 @@
 
 **URL:** https://pudding.cool/2018/08/pockets/
 
-![alt text](Portada.png)
+![alt text](imagenes/Portada.png)
 
 ### **¿Qué cuenta la webstory?**
 
@@ -20,13 +20,13 @@ Constantemente he escuchado el tema de que los bolsillos de los pantalones de la
 Cuando comencé a mirar la webstory, me percaté de que esta contenía diversos elementos que hacían más amena e interesante la lectura. 
 
 1. Al inicio de la página, en la portada, se encuentra un elemento interactivo: apretar la nota que sobresale del “bolsillo” del título, encontrando en ella una cita que expone la problemática a tratar.
-![alt text](<Elemento 1.png>)
+![alt text](imagenes/Elemento%201.png)
 
 2. Bajando en la página, comienzan a aparecer elementos gráficos que acompañan los datos que permiten establecer una buena comparación entre los bolsillos de hombres y mujeres. 
-![alt text](<Elemento 2-1.png>)
+![alt text](imagenes/Elemento%202.png)
 
 3. Cada vez más cerca de la conclusión, uno encuentra más elementos interactivos que acompañan la información, como “qué elementos caben en un bolsillo” y una sección donde se puede buscar por categorías (como el tipo de pantalón, el precio y la marca) el tamaño de los bolsillos en comparación a una mano. 
-![alt text](<Elemento 3.png>) ![alt text](<elemento 4.png>)
+![alt text](imagenes/Elemento%203.png) ![alt text](imagenes/elemento%204.png)
 
 ### **Sobre su estructura narrativa**
 
