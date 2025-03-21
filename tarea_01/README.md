@@ -1,4 +1,4 @@
-# <center> Análisis de una webstory
+# Análisis de una webstory
 **Nombre webstory:** _Women’s Pockets are Inferior_ (“Los bolsillos de las mujeres son inferiores” en español)
 
 **URL:** https://pudding.cool/2018/08/pockets/
